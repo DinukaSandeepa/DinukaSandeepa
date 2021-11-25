@@ -22,14 +22,12 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <a href="https://github.com/DinukaSandeepa"><img src="https://github-profile-trophy.vercel.app/?username=DinukaSandeepa&no-bg=true" alt="DinukaSandeepa" /></a> </p>
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
-
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/DinukaSandeepa)
 - [![GitHub followers](https://img.shields.io/github/followers/DinukaSandeepa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DinukaSandeepa?tab=followers)
 
 <p>
-  <a href="https://github.com/inukaasith/handle-path-oz">
+  <a href="https://github.com/DinukaSandeepa/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&hide_border=true" />
   </a>
 </p>
