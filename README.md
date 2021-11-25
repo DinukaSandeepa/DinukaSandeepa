@@ -1,40 +1,85 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+# Hey , I am Inuka Asith  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### :smiley_cat: I am Dinuka Sandeepa
+## 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSandeepa&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa&theme=tokyonight&layout=compact)
-
-🌱 I’m currently learning android in dicoding.com with kotlin
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+|  <a href="https://t.me/DinukaSandeepa/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Dinuka Sandeepa](https://t.me/DinukaSandeepa/)**                                                                                |
+| <a href="https://github.com/DinukaSandeepa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/dinuka.sandeepa.x"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dinuka_sandeepa/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
-------
 
-Last Edited on: 25/11/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DinukaSandeepa)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Inukaasith7:inukaasith7@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:inukaasith7@outlook.com)
+
+<p align="left"> <a href="https://github.com/DinukaSandeepa"><img src="https://github-profile-trophy.vercel.app/?username=DinukaSandeepa&no-bg=true" alt="DinukaSandeepa" /></a> </p>
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+
+- 👨🏽‍💻 I’m currently working on [TeamDaisyX](https://t.me/daisySupport_Official);
+- 🌱 I’m currently learning Python Pyrogram & Telethon; 
+- 👯 I’m looking to collaborate on [TeamDaisyX](https://t.me/daisySupport_Official) 🤝;
+- 🤔 I’m looking for help with bot developing 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I'm Noob;
+- 📫 How to reach me: inukaasith7@gmail.com;
+
+
+
+
+# GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/DinukaSandeepa)
+- [![GitHub followers](https://img.shields.io/github/followers/DinukaSandeepa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DinukaSandeepa?tab=followers)
+
+<p>
+  <a href="https://github.com/inukaasith/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&hide_border=true" />
+  </a>
+</p>
+<p align ="right">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>  
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSandeepa&" alt="DinukaSandeepa" /></p>
+# 
+
+# TOOLS AND LANGS USED
+- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
+- ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
+- ![TELETHON](https://img.shields.io/badge/Telethon-ffffff.svg?logo=data:image/svg+xml;base64,PCEtLSBMb2dvIGhhbmQtbWFkZSBieSBMb25hbWkgKEMpIExvbmFtaVdlYnMgMjAxOCwgdGlkaWVkIHVwIGJ5IEp1YW5Qb3RhdG8gLS0+Cjxzdmcgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSIjMzc3N2IwIiAvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGwtMiAyIGgtMTcuNSBsLTEwLjUgNDMgbC0yIDIgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2YwYTcyNyIvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGgtMTcuNSBsLTEyLjUgNDUgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2ZmZDc1MCIvPgo8L3N2Zz4K)&nbsp;&nbsp;
+
+
+
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa)
+
+
+
+# Follow me on
+<p align="left">
+<a href="https://t.me/DinukaSandeepa" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+---
+
