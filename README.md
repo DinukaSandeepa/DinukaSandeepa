@@ -29,8 +29,7 @@
 </p>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSandeepa&" alt="DinukaSandeepa" /></p>
-# 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaSandeepa&" alt="DinukaSandeepa" /></p> 
 
 # TOOLS AND LANGS USED
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
