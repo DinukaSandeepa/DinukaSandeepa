@@ -1,21 +1,5 @@
 # Hey , I am Dinuka Sandeepa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## 
-
-
-
-
-
-
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DinukaSandeepa)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Inukaasith7:inukaasith7@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:inukaasith7@outlook.com)
 
 <p align="left"> <a href="https://github.com/DinukaSandeepa"><img src="https://github-profile-trophy.vercel.app/?username=DinukaSandeepa&no-bg=true" alt="DinukaSandeepa" /></a> </p>
 
@@ -59,11 +43,4 @@ You can use the website to generate badges: https://shields.io/
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa)
 
-
-
-# Follow me on
-<p align="left">
-<a href="https://t.me/DinukaSandeepa" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
----
 
