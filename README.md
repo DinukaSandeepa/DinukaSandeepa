@@ -1,4 +1,4 @@
-# Hey , I am Inuka Asith  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey , I am Dinuka Sandeepa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## 
 
@@ -23,17 +23,6 @@ You can use the website to generate badges: https://shields.io/
 <p align="left"> <a href="https://github.com/DinukaSandeepa"><img src="https://github-profile-trophy.vercel.app/?username=DinukaSandeepa&no-bg=true" alt="DinukaSandeepa" /></a> </p>
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
-
-- 👨🏽‍💻 I’m currently working on [TeamDaisyX](https://t.me/daisySupport_Official);
-- 🌱 I’m currently learning Python Pyrogram & Telethon; 
-- 👯 I’m looking to collaborate on [TeamDaisyX](https://t.me/daisySupport_Official) 🤝;
-- 🤔 I’m looking for help with bot developing 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Noob;
-- 📫 How to reach me: inukaasith7@gmail.com;
-
-
-
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/DinukaSandeepa)
