@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://github.com/DinukaSandeepa"><img src="https://github-profile-trophy.vercel.app/?username=DinukaSandeepa&no-bg=true" alt="DinukaSandeepa" /></a> </p>
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/DinukaSandeepa)
-- [![GitHub followers](https://img.shields.io/github/followers/DinukaSandeepa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DinukaSandeepa?tab=followers)
-
+(https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&theme=radical)
 <p>
   <a href="https://github.com/DinukaSandeepa/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&hide_border=true" />
@@ -37,7 +35,6 @@
 - ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
 - ![TELETHON](https://img.shields.io/badge/Telethon-ffffff.svg?logo=data:image/svg+xml;base64,PCEtLSBMb2dvIGhhbmQtbWFkZSBieSBMb25hbWkgKEMpIExvbmFtaVdlYnMgMjAxOCwgdGlkaWVkIHVwIGJ5IEp1YW5Qb3RhdG8gLS0+Cjxzdmcgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSIjMzc3N2IwIiAvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGwtMiAyIGgtMTcuNSBsLTEwLjUgNDMgbC0yIDIgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2YwYTcyNyIvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGgtMTcuNSBsLTEyLjUgNDUgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2ZmZDc1MCIvPgo8L3N2Zz4K)&nbsp;&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&theme=radical)
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa)
