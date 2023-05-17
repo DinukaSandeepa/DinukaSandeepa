@@ -4,6 +4,6 @@
 ![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&theme=radical)
 
 # MOST USED LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa&langs_count=8)](https://github.com/DinukaSandeepa/github-readme-stats)
 
 
