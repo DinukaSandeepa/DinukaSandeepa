@@ -6,3 +6,4 @@
 # MOST USED LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa&layout=compact)](https://github.com/DinukaSandeepa/github-readme-stats)
 
+[![Dinuka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DinukaSandeepa)](https://github.com/DinukaSandeepa/github-readme-stats)
