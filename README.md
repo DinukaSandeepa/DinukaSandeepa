@@ -3,4 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaSandeepa)](https://github.com/DinukaSandeepa/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DinukaSandeepa)](https://github.com/DinukaSandeepa/github-readme-stats)
