@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in R
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/nextjs.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/nextjs.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
 
 ### Databases
